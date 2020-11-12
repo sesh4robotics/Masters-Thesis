@@ -1,0 +1,4 @@
+timer_interrupt.c:11:6:TimerInterruptInit	24	static
+timer_interrupt.c:36:6:UpdateInterruptTime	16	static
+timer_interrupt.c:68:6:StartInterrupt	16	static
+timer_interrupt.c:83:6:StopInterrupt	16	static

@@ -1,0 +1,3 @@
+servo.c:10:7:ServoInit	24	static
+servo.c:46:7:PWMDuty	16	static
+servo.c:68:7:AngleInput	32	static

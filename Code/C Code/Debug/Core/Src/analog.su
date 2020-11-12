@@ -1,0 +1,3 @@
+analog.c:14:6:ADC_Create_Start	24	static
+analog.c:49:6:ADC_Channel_Init	24	static
+analog.c:66:10:Analog_Value	16	static
